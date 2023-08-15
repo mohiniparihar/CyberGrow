@@ -1,0 +1,157 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Heading{
+    background-color:rgba(255, 192, 203, 0.312);
+    padding-bottom: 100px;
+}
+.nav-links{
+background-color: white;
+display: flex;
+gap: 20px;
+justify-content: center;
+margin-left: 500px;
+margin-right: 500px;
+height: 40px;
+padding-top: 25px;
+text-decoration: none;
+font-size: 20px;
+}
+.nav-links{
+    text-decoration: none;
+    color: black;
+}
+.nav{
+    text-decoration: none   ;
+    background-color: rgba(145, 179, 65, 0.085);
+    padding: 20px;
+    padding-top: 20px;
+width: 90%;
+margin-left: 50px;
+}
+.cont img{
+    padding-top: 10px;
+}
+.cont p{
+    margin-top: -90px;
+    margin-left: 100px;
+    color: white;
+}
+.cont h1{
+    font-size: 50px;
+    margin-top: 230px;
+    margin-left:200px ;
+}
+.cont h4{
+    margin-top: 40px;
+    color: black;
+    margin-left: 200px;
+}
+.c h4{
+    margin-left:230px ;
+}
+.c h3{
+    margin-left: 200px;
+}
+.c a{
+    margin-left: 200px;
+   margin-top: -30px;
+}
+.formm{
+    background-color: white;
+    margin-left:850px;
+    margin-top: -550px;
+    height: 850px;
+    width: 570px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+.formm h1{
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 30px;
+}
+.formm p{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.formm form{
+    margin-left: 40px;
+    margin-top: 20px;
+    opacity: .7;
+}
+.formm a{
+    color: white;
+    background-color: rgb(219, 58, 58);
+border: 2px solid white;
+border-radius: 50px;
+padding-top: 10px;
+padding-bottom:10px ;
+padding-left: 25px;
+padding-right: 25px;
+text-decoration: none;
+font-size: 20px;
+margin-left: 40px;
+}
+.formm a:hover{
+    background-color:rgb(137, 33, 33) ;
+    color: rgb(255, 255, 255);
+    border-color: rgb(95, 29, 29);
+}
+.map iframe{
+    margin-left: 200px;
+    margin-top: -300px;
+}
+.bottom{
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+.image img{
+    margin-left: 300px;
+}
+.Corse h2{
+    margin-left: 800px;
+    margin-top: -200px;
+}
+.lis{
+    margin-left: 800px;
+}
+.lis ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    transition: .5s;
+}
+.lis ul li a:hover{
+    color: rgb(205, 95, 95);
+}
+.adress h2{
+ margin-left: 1100px;
+ margin-top: -350px;
+}
+.adress H3{
+    margin-left: 1100px;
+    margin-top: 25px;
+}
+.adress p{
+    margin-left: 1100px;
+    margin-top: 30px;
+    line-height: 30px;
+}
+.no{
+    line-height: 20px;
+}
+.links{
+margin-left: 250px;
+margin-top: -70px;
+}
+.links a{
+    text-decoration: none;
+   gap: 20px;
+   color: black;
+   padding-left: 15px;
+}
+.links a:hover{
+    color: rgb(197, 54, 54);
+}

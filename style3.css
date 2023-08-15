@@ -1,0 +1,183 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.heading{
+    background-color:rgba(199, 157, 164, 0.144);
+    padding-bottom: 150px;
+}
+.nav-links{
+background-color: white;
+display: flex;
+gap: 20px;
+justify-content: center;
+margin-left: 500px;
+margin-right: 500px;
+height: 40px;
+padding-top: 25px;
+text-decoration: none;
+font-size: 20px;
+}
+.nav-links{
+    text-decoration: none;
+    color: black;
+}
+.nav{
+    text-decoration: none   ;
+    background-color: rgba(145, 179, 65, 0.085);
+    padding: 20px;
+    padding-top: 20px;
+width: 90%;
+margin-left: 50px;
+}
+.cont img{
+    margin-top: 20px;
+    border: 2px solid white;
+    border-bottom-right-radius: 150px;
+}
+.cont h4{
+    margin-top: -150px;
+    margin-left: 100px;
+    color: white;
+}
+.center{
+    border: 5px solid black;
+    height: 250px;
+    width: 1000px;
+    margin-top: 250px;
+    margin-left: 250px;
+    border-radius: 200px;
+}
+.center img{
+    margin-left: 340px;
+    
+}
+.content p{
+
+line-height: 30px;
+   margin-left: 250px;
+    margin-top: 30px;
+}
+.content p.c{
+    margin-left: 800px;
+    margin-top: -330px;
+}
+.content h3{
+    border: 2px solid  rgba(255, 0, 0, 0.571);
+    height: 30px;
+    width: 130px;
+    margin-left: 250px;
+    margin-top: 70px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 10px;
+    border-radius: 20px;
+    background-color: rgba(255, 0, 0, 0.571);
+    color: white;
+    transition: 1s;
+}
+.content h3:hover{
+    background-color: red;
+    border: red;
+}
+.content H1{
+    font-size: 30px;
+    margin-left: 300px;
+    margin-top: 100px;
+    background-color: white;
+width: 850px;
+}
+.item{
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.item p{
+   line-height: 30px;
+}
+.hand{
+    margin-left: 700px;
+    margin-top: -335px;
+}
+.hand p{
+    line-height: 30px;
+}
+.feed{
+    margin-left: 1100px;
+    margin-top: -370px;
+}
+.feed p{
+    line-height: 30px;
+}
+.place{
+    margin-left: 300px;
+    margin-top: 60px;
+}
+.place p{
+    line-height: 30px;
+}
+.fee{
+    margin-left: 700px;
+    margin-top: -155px;
+}
+.fee p{
+    line-height: 30px;
+}
+.time{
+    margin-left: 1100px;
+    margin-top: -220px;
+}
+.time p{
+    line-height: 30px;
+}
+.bottom{
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+.image img{
+    margin-left: 300px;
+}
+.Corse h2{
+    margin-left: 800px;
+    margin-top: -200px;
+}
+.lis{
+    margin-left: 800px;
+}
+.lis ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    transition: .5s;
+}
+.lis ul li a:hover{
+    color: rgb(205, 95, 95);
+}
+.adress h2{
+ margin-left: 1100px;
+ margin-top: -350px;
+}
+.adress H3{
+    margin-left: 1100px;
+    margin-top: 25px;
+}
+.adress p{
+    margin-left: 1100px;
+    margin-top: 30px;
+    line-height: 30px;
+}
+.no{
+    line-height: 20px;
+}
+.links{
+margin-left: 250px;
+margin-top: -70px;
+}
+.links a{
+    text-decoration: none;
+   gap: 20px;
+   color: black;
+   padding-left: 15px;
+}
+.links a:hover{
+    color: rgb(197, 54, 54);
+}
